@@ -1,7 +1,5 @@
-## 👋 Hello Users! @ImStortoh
+## 👋 Hello users! I am @Aggiustatoh
 
-- 🍕 Hello I am Stortoh but not too much! I am 14 years old and learning to develop in java mainly for the Spigot API.
-- 🌱 I’m currently learning Java ( SpigotAPI ) & SS
-- ✨ Minecraft player since 2024
-- 🔭 I’m currently working on Remake Studios [[CLICK-HERE]](https://dsc.gg/remakestudios/)
-- 🧶 I'm trying to become staff on CoralMC by 2025
+- 🍕 Hi I'm Aggiustatoh! I'm 15 years old and I'm learning how to develop minecraft plugins with advanced code in java. I already know how to develop minecraft plugins such as minigames (example: Bedwars, KitPvP etc...) however I am learning how to use advanced code so that others don't get it.
+- ✨ Minecraft player since 2018
+- 🔭 Currently working on StoryRPG [[CLICK HERE]](https://discord.gg/storyrpg/) to participate
